@@ -45,7 +45,6 @@ function App() {
               </div>
           </div>
 
-
           <div class="logreg-box">
               <div class="form-box login">
                   <form action="#">
